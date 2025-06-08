@@ -101,5 +101,5 @@ Made by Sayan Halder, learning Python and Flask.
 
 📜 License:
 
-Free to use under the MIT License.
+Free to use under the Unlicense.
 
